@@ -1,9 +1,3 @@
-"""
-CORE AGENT ORCHESTRATOR
-Ties together: RAG Pipeline + Dual-Layer Memory + Gemini 2.5 Flash
-This is the single entry-point the Streamlit app calls.
-"""
-
 from __future__ import annotations
 import os
 import re

@@ -1,15 +1,3 @@
-"""
-SECTION 5: INTERACTIVE DEMO — app.py
-Run with: streamlit run app.py
-
-Full Karpathy Digital Twin chat interface with:
-  - Streaming responses
-  - Memory dashboard sidebar
-  - Source citations display
-  - Session controls
-  - Timeline indicator
-"""
-
 import os
 import sys
 import time

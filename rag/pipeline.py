@@ -1,8 +1,3 @@
-"""
-SECTION 2: DATA PIPELINE & GROUNDED RAG ENGINE
-Code-aware chunking, timeline tagging, and semantic retrieval with ChromaDB.
-"""
-
 from __future__ import annotations
 import re
 import json
